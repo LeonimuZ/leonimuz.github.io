@@ -1,0 +1,8 @@
+{
+  "name": "LeonimuZ.com",
+  "short_name": "LeonimuZ",
+  "start_url": "/",
+  "background_color": "#222222",
+  "theme_color": "#222222",
+  "orientation" : "any"
+}
